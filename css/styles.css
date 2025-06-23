@@ -1,5 +1,5 @@
 /* 
-   TAL Landscaping - Main Stylesheet
+   Landscape Design Malaysia - Main Stylesheet
    A modern, professional design for a landscaping business
 */
 
@@ -891,7 +891,7 @@ img {
         left: -100%;
         top: 70px;
         flex-direction: column;
-        background-color: rgba(255, 255, 255, 0.8); /* Exactly matching header transparency */
+        background-color: rgba(255, 255, 255, 0.9); /* Exactly matching header transparency */
         backdrop-filter: blur(10px);
         -webkit-backdrop-filter: blur(10px);
         width: 100%;

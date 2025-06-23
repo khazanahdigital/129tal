@@ -1,6 +1,6 @@
-# TAL Landscaping Website
+# Landscape Design Malaysia Website
 
-A modern, professional website for TAL Landscaping business built with HTML, CSS, and JavaScript.
+A modern, professional website for Landscape Design Malaysia business built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -8,7 +8,7 @@ A modern, professional website for TAL Landscaping business built with HTML, CSS
 - Modern UI with smooth animations and transitions
 - Interactive elements including testimonial slider and project filtering
 - Contact form for customer inquiries
-- Showcase of landscaping services and projects
+- Showcase of landscapedesignmalaysia services and projects
 
 ## Project Structure
 
@@ -51,7 +51,7 @@ Update the text content in the `index.html` file to match your specific services
 
 ### Images
 
-Replace the placeholder images with your own landscaping project photos by changing the image URLs in the HTML file.
+Replace the placeholder images with your own landscapedesignmalaysia project photos by changing the image URLs in the HTML file.
 
 ## Browser Compatibility
 

@@ -1,5 +1,5 @@
 /**
- * TAL Landscaping - Main JavaScript
+ * Landscape Design Malaysia - Main JavaScript
  * Handles all interactive elements of the website
  */
 
